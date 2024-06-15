@@ -21,8 +21,6 @@ As part of the E-commerce Analysis project, I undertook comprehensive data visua
 - Visualized sales trends, helping to understand seasonal variations and peak periods.
 - Analyzed customer behavior and segmentation, providing insights for targeted marketing and customer retention strategies.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3d8845bb-a85f-42e7-9ca5-8327bfc5efc7/3803a534-cb3d-49e1-bb36-a76dacb34997/Untitled.png)
-
 ### Reflection
 
 This E-commerce Analysis project showcased my proficiency in data visualization and analysis. The insights derived from the visualizations contribute to informed decision-making for optimizing sales strategies and improving customer satisfaction. The interactive dashboard underscores the importance of leveraging data-driven approaches for e-commerce management, aligning with the broader trend of analytics in modern retail operations.
